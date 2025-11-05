@@ -12,5 +12,6 @@
 - IC 78L12
 - Tụ hóa
 - Tụ gốm
+- IC LM317 (Nâng cao)
 
 # Tính toán các thông số quan trọng của linh kiện
