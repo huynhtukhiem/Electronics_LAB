@@ -14,10 +14,12 @@
 - Tụ gốm
 - IC LM317 (Nâng cao)
 
+# Nguyên lý hoạt động
+
 # Sơ đồ mắc mạch
 Hình ảnh
 
-# Tính toán các thông số quan trọng của linh kiện
+# Tính toán các thông số để chọn linh kiện
 Mục tiêu: Chuyển 220V AC thành 5V DC
 - Biến áp
 ```
